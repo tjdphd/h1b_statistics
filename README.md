@@ -1,3 +1,9 @@
+Entry for: Timothy J. Dennis
+           401 Beech Lane
+           Bowling Green, OH 43402
+           tjdphd@gmail.com
+           815-990-8591
+
 # Table of Contents
 1. [Problem](README.md#problem)
 2. [Input Dataset](README.md#input-dataset)
